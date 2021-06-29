@@ -22,7 +22,7 @@
     <div class="d-none d-sm-block">
       <div class="swiper-container">
         <div class="swiper-wrapper">
-          <div class="swiper-slide">
+          <!--          <div class="swiper-slide">
             <div id="swiperVideo">
               <video height="600" autoplay="autoplay" loop="loop" muted="muted">
                 <source src="~assets/video/banner.mp4">
@@ -32,7 +32,7 @@
                 <b style="font-size: 30px">TECHNOLOGY DRIVERS THE FUTURE</b>
               </div>
             </div>
-          </div>
+          </div>-->
           <div class="swiper-slide">
             <div class="swiper-image banner1">
             </div>
